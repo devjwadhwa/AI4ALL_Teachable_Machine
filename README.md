@@ -5,6 +5,8 @@ Classification model that checks whether head is tilted towards left or left han
  <br> Class 1: Head tilted left </br>
 <br> Class 2 : Left hand raised </br>
 
+
+
 1) Download the folder and run main.html on your browser
 
 2) Allow permission to access camera. Keep on refreshing the browser until permission is asked
